@@ -1,0 +1,283 @@
+{
+    "success": true,
+    "message": "",
+    "data": {
+        "user_info": {
+            "user_id": "343065",
+            "hash": "b68179dd8f",
+            "share_link": "https://lottiefiles.com/year-in-motion/2021/b68179dd8f"
+        },
+        "public_animations_published": {
+            "stats": {
+                "top": "You've contributed",
+                "middle": "385",
+                "bottom": "Lottie animations"
+            },
+            "tidbits": "That puts you in the top 20% of contributors!",
+            "data": [
+                {
+                    "id": 59364,
+                    "json": "https://assets6.lottiefiles.com/packages/lf20_hk63stcp.json",
+                    "file_size": "217745",
+                    "total_frames": 0,
+                    "number_of_layers": 1
+                },
+                {
+                    "id": 61942,
+                    "json": "https://assets9.lottiefiles.com/packages/lf20_lvrb7nnz.json",
+                    "file_size": "13698",
+                    "total_frames": 0,
+                    "number_of_layers": 8
+                },
+                {
+                    "id": 75646,
+                    "json": "https://assets4.lottiefiles.com/packages/lf20_1k7qtesc.json",
+                    "file_size": "238209",
+                    "total_frames": 30,
+                    "number_of_layers": 46
+                },
+                {
+                    "id": 62290,
+                    "json": "https://assets7.lottiefiles.com/packages/lf20_buzt1erl.json",
+                    "file_size": "44958",
+                    "total_frames": 0,
+                    "number_of_layers": 0
+                },
+                {
+                    "id": 66864,
+                    "json": "https://assets1.lottiefiles.com/packages/lf20_44y9y3ky.json",
+                    "file_size": "241414",
+                    "total_frames": 0,
+                    "number_of_layers": 47
+                },
+                {
+                    "id": 75643,
+                    "json": "https://assets1.lottiefiles.com/packages/lf20_gjtpn03m.json",
+                    "file_size": "145269",
+                    "total_frames": 0,
+                    "number_of_layers": 0
+                },
+                {
+                    "id": 75631,
+                    "json": "https://assets8.lottiefiles.com/packages/lf20_thq99fhd.json",
+                    "file_size": "376693",
+                    "total_frames": 30,
+                    "number_of_layers": 54
+                },
+                {
+                    "id": 60647,
+                    "json": "https://assets4.lottiefiles.com/packages/lf20_quqgaeib.json",
+                    "file_size": "367826",
+                    "total_frames": 0,
+                    "number_of_layers": 0
+                },
+                {
+                    "id": 44265,
+                    "json": "https://assets9.lottiefiles.com/packages/lf20_aqp519ua.json",
+                    "file_size": "243090",
+                    "total_frames": 0,
+                    "number_of_layers": 40
+                },
+                {
+                    "id": 50058,
+                    "json": "https://assets4.lottiefiles.com/packages/lf20_snidyjqs.json",
+                    "file_size": "528219",
+                    "total_frames": 0,
+                    "number_of_layers": 18
+                },
+                {
+                    "id": 72604,
+                    "json": "https://assets2.lottiefiles.com/packages/lf20_n11wkzpr.json",
+                    "file_size": "1428773",
+                    "total_frames": 30,
+                    "number_of_layers": 11
+                },
+                {
+                    "id": 74973,
+                    "json": "https://assets6.lottiefiles.com/packages/lf20_hfuw3wbs.json",
+                    "file_size": "41607",
+                    "total_frames": 0,
+                    "number_of_layers": 5
+                }
+            ]
+        },
+        "public_animations_featured": {
+            "stats": {
+                "top": "You were featured",
+                "middle": "1",
+                "bottom": "time on LottieFiles' homepage"
+            },
+            "tidbits": "847 pair of eyes have seen your awesome work",
+            "data": [
+                {
+                    "id": 61942,
+                    "json": "https://assets3.lottiefiles.com/packages/lf20_lvrb7nnz.json",
+                    "file_size": "13698",
+                    "total_frames": 0,
+                    "number_of_layers": 8
+                }
+            ]
+        },
+        "public_animations_total_frames": {
+            "stats": {
+                "top": "You've contributed",
+                "middle": "2580",
+                "bottom": "animation frames in total"
+            },
+            "tidbits": "And every single one was worth it",
+            "data": [
+                {
+                    "id": 30266,
+                    "json": "https://assets2.lottiefiles.com/packages/lf20_iK1u7B.json",
+                    "user": "Arnau Sebastia",
+                    "file_size": "11984",
+                    "total_frames": 0,
+                    "number_of_layers": 3
+                }
+            ]
+        },
+        "user_top_animation": {
+            "stats": {
+                "top": "This animation received",
+                "middle": "847",
+                "bottom": "views"
+            },
+            "tidbits": "Now isn't that pretty darn cool?",
+            "data": [
+                {
+                    "id": 61942,
+                    "json": "https://assets7.lottiefiles.com/packages/lf20_lvrb7nnz.json",
+                    "file_size": "13698",
+                    "total_frames": 0,
+                    "number_of_layers": 8
+                }
+            ]
+        },
+        "total_downloads_for_contributed_animations": {
+            "stats": {
+                "top": "Your animations were downloaded",
+                "middle": "1356",
+                "bottom": "times across the planet"
+            },
+            "tidbits": "Equivalent to 0 of data shared with the Lottie community",
+            "data": [
+                {
+                    "id": 67171,
+                    "json": "https://assets10.lottiefiles.com/packages/lf20_ko8ud57v.json",
+                    "user": "Alexander Plaksin",
+                    "file_size": "547017",
+                    "total_frames": 0,
+                    "number_of_layers": 0
+                }
+            ]
+        },
+        "total_likes_for_contributed_animations": {
+            "stats": {
+                "top": "You've gotten a total of ",
+                "middle": "271",
+                "bottom": "likes on all your animations"
+            },
+            "tidbits": "That's a whole lotta love for your work",
+            "data": [
+                {
+                    "id": 836,
+                    "json": "https://assets4.lottiefiles.com/datafiles/hvAaKBDVLhuV5Wl/data.json",
+                    "user": "Saki Hanzawa",
+                    "file_size": "19569",
+                    "total_frames": 0,
+                    "number_of_layers": 9
+                }
+            ]
+        },
+        "total_downloads_by_the_user": {
+            "stats": {
+                "top": "You've downloaded",
+                "middle": "3",
+                "bottom": "animations"
+            },
+            "tidbits": "And they were from 3 creators",
+            "data": [
+                {
+                    "id": 25923,
+                    "json": "https://assets10.lottiefiles.com/private_files/lf30_C4mvTM.json",
+                    "user": "mograph.ix",
+                    "file_size": "103434",
+                    "total_frames": 0,
+                    "number_of_layers": 35
+                }
+            ]
+        },
+        "total_likes_by_the_user": {
+            "stats": {
+                "top": "You've liked",
+                "middle": "4",
+                "bottom": "animations"
+            },
+            "tidbits": "2 creators felt all warm and fuzzy thanks to you",
+            "data": [
+                {
+                    "id": 69959,
+                    "json": "https://assets2.lottiefiles.com/packages/lf20_fj4txvdu.json",
+                    "user": "Kaiserbrand",
+                    "file_size": "169825",
+                    "total_frames": 0,
+                    "number_of_layers": 15
+                }
+            ]
+        },
+        "top_animation_categories": {
+            "stats": {
+                "top": "Your top categories are",
+                "middle": "forest, animals, design, fun, physics",
+                "bottom": ""
+            },
+            "tidbits": "Among the animations you've downloaded and liked",
+            "data": [
+                {
+                    "id": 84357,
+                    "json": "https://assets1.lottiefiles.com/packages/lf20_7mxmtgyo.json",
+                    "user": "RBR Digital",
+                    "file_size": "574674",
+                    "total_frames": 0,
+                    "number_of_layers": 0
+                }
+            ]
+        },
+        "top_downloaders": {
+            "stats": {},
+            "tidbits": "",
+            "data": []
+        },
+        "closing_summary": {
+            "stats": {
+                "top": "You've contributed",
+                "middle": "385",
+                "bottom": "Lottie animations"
+            },
+            "tidbits": "",
+            "data": [
+                {
+                    "id": 59364,
+                    "json": "https://assets6.lottiefiles.com/packages/lf20_hk63stcp.json",
+                    "file_size": "217745",
+                    "total_frames": 0,
+                    "number_of_layers": 1
+                },
+                {
+                    "id": 61942,
+                    "json": "https://assets9.lottiefiles.com/packages/lf20_lvrb7nnz.json",
+                    "file_size": "13698",
+                    "total_frames": 0,
+                    "number_of_layers": 8
+                },
+                {
+                    "id": 75646,
+                    "json": "https://assets4.lottiefiles.com/packages/lf20_1k7qtesc.json",
+                    "file_size": "238209",
+                    "total_frames": 30,
+                    "number_of_layers": 46
+                }
+            ]
+        }
+    }
+}
